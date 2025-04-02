@@ -1,1 +1,1 @@
-web: python3 your_script.py
+web: python3 your_files.py
