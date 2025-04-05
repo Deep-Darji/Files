@@ -1,1 +1,1 @@
-web: python3 your_files.py
+worker: python3 files.py
